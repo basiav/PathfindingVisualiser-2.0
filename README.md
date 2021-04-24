@@ -15,7 +15,7 @@
 
 * #### Use the pop-up menu to select settings,
 
-<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" width="300" height="300" />
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" width="500" height="500" />
 
 * #### Block points,
 
