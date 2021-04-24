@@ -19,9 +19,9 @@
 
 * #### Block points,
 
-<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" width="300" height="300" />
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" width="550" height="400" />
 
 * #### Legend and refresh/simulate buttons.
-#### Enjoy :)
 
-<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" width="300" height="300" />
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" width="550" height="400" />
+#### Enjoy :)
