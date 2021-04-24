@@ -4,13 +4,20 @@
 * Breadth-first search algorithm,
 * Depth-first search algorithm.
 
-### So what's new?
-#### Create mazes,
+## So what's new?
+* #### Use your mouse to place obstacles and create mazes,
 
 <img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/CreateMazes.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/CreateMazes.png" width="550" height="400" />
 
-#### Use the pop-up menu,
+#### Build walls and observe how they affect finding the shortest path,
 
-Change other parameters, if you wish to. Enjoy! :)
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BuildWalls.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BuildWalls.png" width="550" height="400" />
 
-<img src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" data-canonical-src="https://github.com/basiav/PathfinderVisualiser/blob/master/Configure.png" width="300" height="300" />
+
+#### Use the pop-up menu to select settings,
+
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/PopUpMenu.png" width="300" height="300" />
+
+#### Block points,
+
+<img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/BlockPoints.png" width="300" height="300" />
