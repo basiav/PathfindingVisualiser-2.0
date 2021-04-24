@@ -24,5 +24,3 @@
 * #### Legend and refresh/simulate buttons.
 
 <img src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" data-canonical-src="https://github.com/basiav/PathfindingVisualiser-2.0/blob/master/Obstacles.png" width="550" height="400" />
-
-#### Enjoy :)
